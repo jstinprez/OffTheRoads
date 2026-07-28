@@ -1,7 +1,7 @@
 
 # Off The Roads
 
-![image](https://github.com/jstinprez/OffTheRoads/blob/7b8eea52540fad0d87eb51a2c6f6069e2b175cdc/1-paintbrush.jpg)
+![image](https://github.com/jstinprez/OffTheRoads/blob/eacba4a81b2a3de51d49d12fcd72ce36c0bad817/preview/1-paintbrush.jpg)
 
 Off The Road is a collaborative VR research project developed for UIC's CAVE2 
 immersive environment, investigating urban heat and pedestrian-centered design 
