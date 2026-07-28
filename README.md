@@ -16,7 +16,7 @@ students, faculty, and an IBM representative. Submitted for SIGGRAPH 2026
 consideration. Team awarded the IBM Open Project Developer Level I badge.
 
 ## Paper
-[Off The Road — SIGGRAPH 2026 Abstract](https://github.com/jstinprez/OffTheRoads/blob/58a3563a05c516ef21d98d840c4da3a6cb842bf1/OffTheRoads_SIGGRAPH2026_Abstract.pdf)
+[Off The Road — SIGGRAPH 2026 Abstract](./OffTheRoads_SIGGRAPH2026_Abstract.pdf)
 
 ## My Contributions
 - Designed and implemented the greenery gun interaction in Unity (C#)
